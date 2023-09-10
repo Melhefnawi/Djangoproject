@@ -1,1 +1,1 @@
-web : gunicon codestar.wsgi
+web : gunicon jango-project.wsgi
