@@ -30,7 +30,6 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    '8000-melhefnawi-djangoproject-e2pwa7lc18.us2.codeanyapp.com',
     'jango-project.herokuapp.com', 'localhost']
 
 
